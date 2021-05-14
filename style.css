@@ -1,0 +1,63 @@
+.top{
+    text-align: center;
+    color: black;
+    height: 30px;
+    background-color: crimson;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.side{
+    width: 100px;
+    height: 300px;
+    margin-top: 2%;
+    text-align: center;
+    background-color:teal;
+}
+
+.main{
+    width: 270px;
+    height: 300px;
+    margin-top: 2%;
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.part1{
+    width: 150px;
+    height: 150px;
+    margin-right:2.5%;
+    margin-top: 3%;
+    text-align: center;
+    align-content: center;
+    background-color:salmon;
+}
+
+.bottom{
+    height: 40px;
+    background-color: goldenrod;
+ 
+    text-align: center;
+}
+.bottom h2{
+    padding: 1%;
+}
+
+.last{
+    height: 90px;
+    text-align: center;
+    margin: 2%;
+    background-color:powderblue;
+}
+ 
+.last h2{
+    padding: 5%;
+    font-size: 30px;
+}
